@@ -5,3 +5,7 @@
 ## Software Requirements
 ### 1. [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 ### 2. [Microsoft Excel](https://www.microsoft.com/en-in/microsoft-365/excel)
+<br>
+
+## Output of the Project
+### [Dashboard](crypto_dash.pdf)
